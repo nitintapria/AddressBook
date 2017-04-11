@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/insert_contact"
+        android:title="@string/insert">
+    </item>
+
+    <!--
+    showAsAction is used to promote the item form action overflow (triple dots)
+    to be seprate in the action bar as by default each item in the menu is inside the
+    action overflow
+    -->
+</menu>
